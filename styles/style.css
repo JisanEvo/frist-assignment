@@ -1,0 +1,171 @@
+* {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+
+}
+
+body {
+    /* margin: 140px; */
+}
+
+.h1 {
+    padding-left: 344px;
+    padding-right: 344px;
+    padding-top: 177px;
+    padding-bottom: 177px;
+    border-radius: 16px;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+
+.New {
+    color: #FFF;
+
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.Year {
+
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    /* line-height: 95px; 131.944% */
+
+
+
+}
+
+header {
+    background-image: url("../resources/Banner\ Image.png");
+    /* width: 85%; */
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.interest {
+    padding-top: 120px;
+}
+
+.off {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+
+    font-weight: 700;
+
+}
+
+.holy {
+    color: #F00;
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+
+    font-weight: 500;
+    border-top: 88px;
+}
+
+.cate {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.image {
+    justify-content: center;
+
+    display: flex;
+    margin-bottom: 120px;
+}
+
+.join {
+    background-image: url("../resources/Vectorrr.png");
+    background-repeat: no-repeat;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 20px width: 1320px;
+    height: 600px;
+
+
+
+}
+
+.mid {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    width: 642px;
+    margin-bottom: 24px;
+    padding-top: 126px;
+    f padding-left: 126px;
+    /* padding-right: 94px; */
+}
+
+.para {
+    margin-top: -180px;
+    padding-left: 120px;
+
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 166.667% */
+    color:#FFF;
+    width: 697px;
+}
+
+.btn {
+    color: floralwhite
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+ border:0px;
+}
+
+.group70 {
+    display: flex;
+    ;
+    justify-content: center;
+
+}
+
+.group71 {
+    padding-top: 67px;
+    /* padding-bottom: 68px; */
+
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+
+    align-items: center;
+    flex-shrink: 0;
+
+
+
+}
+
+
+.red{
+
+    color: #F00;
+
+
+}
